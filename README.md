@@ -1,5 +1,3 @@
-# Automated scholarly manuscripts on GitHub
-
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://team-deutschland.github.io/Manuscript_PI3K-AKT-mTOR/)
