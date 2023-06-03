@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/TEAM-Deutschland/Manuscript_PI3K-AKT-mTOR/tree/gh-pages) branch hosts the contents of this directory at <https://TEAM-Deutschland.github.io/Manuscript_PI3K-AKT-mTOR/>.
-The permalink for this webpage version is <https://TEAM-Deutschland.github.io/Manuscript_PI3K-AKT-mTOR/v/ef003150a2be23f2c9c4738aad4745111707c039/>.
+The permalink for this webpage version is <https://TEAM-Deutschland.github.io/Manuscript_PI3K-AKT-mTOR/v/9f0554460619fe9c1ddf94888ac2a1ae27149d99/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://TEAM-Deutschland.github.io/Manuscript_PI3K-AKT-mTOR/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`ef003150a2be23f2c9c4738aad4745111707c039`](https://github.com/TEAM-Deutschland/Manuscript_PI3K-AKT-mTOR/commit/ef003150a2be23f2c9c4738aad4745111707c039).
+[`9f0554460619fe9c1ddf94888ac2a1ae27149d99`](https://github.com/TEAM-Deutschland/Manuscript_PI3K-AKT-mTOR/commit/9f0554460619fe9c1ddf94888ac2a1ae27149d99).
