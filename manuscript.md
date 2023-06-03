@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-03" />
   <meta name="citation_publication_date" content="2023-06-03" />
   <meta property="article:published_time" content="2023-06-03" />
-  <meta name="dc.modified" content="2023-06-03T19:14:28+00:00" />
-  <meta property="article:modified_time" content="2023-06-03T19:14:28+00:00" />
+  <meta name="dc.modified" content="2023-06-03T20:38:14+00:00" />
+  <meta property="article:modified_time" content="2023-06-03T20:38:14+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://TEAM-Deutschland.github.io/Manuscript_PI3K-AKT-mTOR/" />
   <meta name="citation_pdf_url" content="https://TEAM-Deutschland.github.io/Manuscript_PI3K-AKT-mTOR/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://TEAM-Deutschland.github.io/Manuscript_PI3K-AKT-mTOR/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://TEAM-Deutschland.github.io/Manuscript_PI3K-AKT-mTOR/v/ef003150a2be23f2c9c4738aad4745111707c039/" />
-  <meta name="manubot_html_url_versioned" content="https://TEAM-Deutschland.github.io/Manuscript_PI3K-AKT-mTOR/v/ef003150a2be23f2c9c4738aad4745111707c039/" />
-  <meta name="manubot_pdf_url_versioned" content="https://TEAM-Deutschland.github.io/Manuscript_PI3K-AKT-mTOR/v/ef003150a2be23f2c9c4738aad4745111707c039/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://TEAM-Deutschland.github.io/Manuscript_PI3K-AKT-mTOR/v/9f0554460619fe9c1ddf94888ac2a1ae27149d99/" />
+  <meta name="manubot_html_url_versioned" content="https://TEAM-Deutschland.github.io/Manuscript_PI3K-AKT-mTOR/v/9f0554460619fe9c1ddf94888ac2a1ae27149d99/" />
+  <meta name="manubot_pdf_url_versioned" content="https://TEAM-Deutschland.github.io/Manuscript_PI3K-AKT-mTOR/v/9f0554460619fe9c1ddf94888ac2a1ae27149d99/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://TEAM-Deutschland.github.io/Manuscript_PI3K-AKT-mTOR/v/ef003150a2be23f2c9c4738aad4745111707c039/))
+([permalink](https://TEAM-Deutschland.github.io/Manuscript_PI3K-AKT-mTOR/v/9f0554460619fe9c1ddf94888ac2a1ae27149d99/))
 was automatically generated
-from [TEAM-Deutschland/Manuscript_PI3K-AKT-mTOR@ef00315](https://github.com/TEAM-Deutschland/Manuscript_PI3K-AKT-mTOR/tree/ef003150a2be23f2c9c4738aad4745111707c039)
+from [TEAM-Deutschland/Manuscript_PI3K-AKT-mTOR@9f05544](https://github.com/TEAM-Deutschland/Manuscript_PI3K-AKT-mTOR/tree/9f0554460619fe9c1ddf94888ac2a1ae27149d99)
 on June 3, 2023.
 </em></small>
 
