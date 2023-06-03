@@ -8,7 +8,7 @@
 
 ## Übersicht
 
-Dieses repository dient der Erstellung des ersten Manuskriptes des TEAM-D zum Thema *PI3K/AKT/mTOR-Pathway*. Weitere Informationen und Möglichkeiten zur Teilnahme finden sich unter [TEAM-D](https://www.team-deutschland.org).
+Dieses Repository dient der Erstellung des ersten Manuskriptes des TEAM-D zum Thema *PI3K/AKT/mTOR-Pathway*. Weitere Informationen und Möglichkeiten zur Teilnahme finden sich auf der [TEAM-D Website](https://www.team-deutschland.org).
 
 + **HTML** @ https://team-deutschland.github.io/Manuscript_PI3K-AKT-mTOR/
 + **PDF** @ https://team-deutschland.github.io/Manuscript_PI3K-AKT-mTOR/manuscript.pdf
