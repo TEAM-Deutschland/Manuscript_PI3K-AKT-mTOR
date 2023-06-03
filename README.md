@@ -4,7 +4,7 @@
 [![GitHub Actions Status](https://github.com/team-deutschland/Manuscript_PI3K-AKT-mTOR/workflows/Manubot/badge.svg)](https://github.com/team-deutschland/Manuscript_PI3K-AKT-mTOR/actions)
 ## Übersicht
 
-Dieses Repository dient der Erstellung des ersten Manuskriptes des TEAM-D zum Thema *PI3K/AKT/mTOR-Pathway*. Weitere Informationen und Möglichkeiten zur Teilnahme finden sich auf der [TEAM-D Website](https://www.team-deutschland.org).
+Dieses Repository dient der Erstellung des ersten Manuskriptes des TEAM-D zum Thema *PI3K/AKT/mTOR-Pathway*. Weitere Informationen und Möglichkeiten zur Teilnahme finden sich auf der [TEAM-D Website](https://team-deutschland.org).
 
 + **HTML** @ https://team-deutschland.github.io/Manuscript_PI3K-AKT-mTOR/
 + **PDF** @ https://team-deutschland.github.io/Manuscript_PI3K-AKT-mTOR/manuscript.pdf
